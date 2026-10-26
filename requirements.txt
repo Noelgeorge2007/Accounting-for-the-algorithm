@@ -1,0 +1,8 @@
+numpy==2.5.3
+scipy==1.18.1
+pymoo==0.6.2
+scikit-learn==1.9.1
+xgboost==3.4.1
+shap==0.54.1
+SALib==1.6.0
+matplotlib==3.11.2
